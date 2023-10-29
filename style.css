@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Bulletto;
+    src: url(fonts/Bulletto.ttf);
+}
+
+@font-face {
+    font-family: Regista;
+    src: url(fonts/Regista.ttf);
+}
+
+@font-face {
+    font-family: Regista_i;
+    src: url(fonts/Regista_i.ttf);
+}
+
+@font-face {
+    font-family: Rockybilly;
+    src: url(fonts/Rockybilly.ttf);
+}
+
+@font-face {
+    font-family: Alvi;
+    src: url(fonts/Alvi.ttf);
+}
+
+/* =================================================  */
+
+
+.form_main{
+
+    border: 2px solid white;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,0.5);
+    height: fit-content;
+    padding-bottom: 20px;
+}
+.lable_title{
+    font-size: 20px;
+    color: white;
+}
+.input_field{
+    border: none ;
+    color: white;
+    border-bottom: 2px solid cyan ;
+    background-color: rgba(0,0,0,0);
+    width: 100%;
+}
+.send-btn{
+
+    /* border: 2px solid cyan; */
+    border-radius:  10px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    color: white;
+    background-color: darkblue;
+    /* box-shadow: 5px 5px 10px white; */
+}
+.send-btn:hover{
+
+    /* border: 2px solid cyan; */
+    border-radius:  10px;
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    color: white;
+    background-color: darkblue;
+    box-shadow: 2px 2px 5px wheat;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}
