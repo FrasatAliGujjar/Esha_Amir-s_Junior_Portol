@@ -40,6 +40,8 @@
 }
 .input_field{
     border: none ;
+    box-shadow: none;
+    outline: none;
     color: white;
     border-bottom: 2px solid white;
     background-color: rgba(0,0,0,0);
