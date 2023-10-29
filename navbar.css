@@ -96,10 +96,9 @@ body {
 
 .nav_bar_main_container {
 
-    border-bottom: 2px solid cyan;
+    border-bottom: 2px solid white;
     border-radius: 0px;
     color: white;
-    /* background-color: rgba(0, 0, 0, 1); */
     background-color: palevioletred;
 }
 
@@ -202,10 +201,11 @@ body {
 
     .nav_bar_main_container {
 
-        border-bottom: 2px solid cyan;
+        border-bottom: 2px solid white;
         border-radius: 0px;
         color: white;
-        background-color: rgba(0, 0, 0, 1);
+        background-color: palevioletred;
+        
     }
 }
 
